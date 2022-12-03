@@ -1,6 +1,14 @@
 import { images } from "../../constants";
 const works = [
    {
+      title: "Travel Blog",
+      description: "Travel Blog App Full stack with Next.js, Material UI, and Contentful(CMS)",
+      codeLink: "https://github.com/imkarthickperumal/travel-blog",
+      projectLink: "https://travel-blog-olive.vercel.app/",
+      imageUrl: images.travel,
+      tag: "Next Js App",
+   },
+   {
       title: "Hulu",
       description: "Hulu REACT.JS! (Next.js, Tailwind CSS, Responsive)",
       codeLink: "https://github.com/imkarthickperumal/hulu-clone-app",

@@ -29,6 +29,7 @@ import hulu from "../assets/hulu.png"
 import academy from "../assets/academy.png"
 import pwa from "../assets/pwa.png"
 import three from "../assets/three.png"
+import travel from "../assets/travel.png"
 
 
 import github from "../assets/github.png";
@@ -43,6 +44,7 @@ export default {
    pwa,
    academy,
    hulu,
+   travel,
    nextjs,
    email,
    mobile,
